@@ -53,7 +53,7 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://imgchr.com/i/pmgvvK1" alt="Home Page" width="30%">
+  <a href="https://imgchr.com/i/pmgvvK1"><img src="https://s41.ax1x.com/2026/07/24/pmgvvK1.png" alt="Home Page" border="0" /></a>
   <img src="https://imgchr.com/i/pmgvxDx" alt="Merge Page" width="30%">
   <img src="https://imgchr.com/i/pmgvXvR" alt="Delete Page" width="30%">
 </div>
