@@ -225,7 +225,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 <div align="center">
-  <sub>Made with ❤️ by PDF Processor Team</sub>
+  <sub>Made by tengxunlaozu</sub>
 </div>
 
 ---
@@ -439,5 +439,5 @@ pip install pycryptodome
 ---
 
 <div align="center">
-  <sub>由 PDF Processor Team 用 ❤️ 制作</sub>
+  <sub>由tengxunlaozu制作</sub>
 </div>
