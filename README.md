@@ -53,9 +53,9 @@
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="https://via.placeholder.com/600x400?text=Home+Page" alt="Home Page" width="30%">
-  <img src="https://via.placeholder.com/600x400?text=Merge+Page" alt="Merge Page" width="30%">
-  <img src="https://via.placeholder.com/600x400?text=Delete+Page" alt="Delete Page" width="30%">
+  <img src="https://imgchr.com/i/pmgvvK1" alt="Home Page" width="30%">
+  <img src="https://imgchr.com/i/pmgvxDx" alt="Merge Page" width="30%">
+  <img src="https://imgchr.com/i/pmgvXvR" alt="Delete Page" width="30%">
 </div>
 
 ---
